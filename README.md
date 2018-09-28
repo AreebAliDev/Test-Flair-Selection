@@ -8,33 +8,50 @@ Once you select a flair, you will be redirected to a mail composition on reddit.
 
 | Original  | Riyo |
 | ------------- | ------------- |
-| ![Image](https://i.imgur.com/jCN1nF3.png) ![Image](https://imgur.com/NuA5GT6) ![Image](https://cdn.discordapp.com/attachments/360571568650190848/495305443535749130/Arthur2.png)  | ![Image](https://cdn.discordapp.com/attachments/360571568650190848/495309949006512129/AhogeRiyo.png) ![Image](https://cdn.discordapp.com/attachments/360571568650190848/495309951187550218/AlteraRiyo.png) ![Image](https://cdn.discordapp.com/attachments/360571568650190848/495309953599537162/ArthurRiyo.png) |
-| ![Image](https://cdn.discordapp.com/attachments/360571568650190848/495305444802297857/Artoria.png) ![Image](https://cdn.discordapp.com/attachments/360571568650190848/495305445821513728/ArtoriaAlter.png) ![Image](https://cdn.discordapp.com/attachments/360571568650190848/495305447088062474/ArtoriaLily.png) | ![Image](https://cdn.discordapp.com/attachments/360571568650190848/495309955243573258/ArtoriaAlterRiyo.png) ![Image](https://cdn.discordapp.com/attachments/360571568650190848/495309957252775957/ArtoriaLilyRiyo.png) ![Image](https://cdn.discordapp.com/attachments/360571568650190848/495309958984761365/ArtoriaRiyo.png)  |
+| ![Image](https://i.imgur.com/jCN1nF3.png) ![Image](https://i.imgur.com/NuA5GT6.png) ![Image](https://i.imgur.com/PvUZYZs.png) ![Image](https://i.imgur.com/dXQfXgh.png) ![Image](https://i.imgur.com/4BrrrYK.png) ![Image](https://i.imgur.com/NKuHkUa.png) | . |
+| ![Image](https://i.imgur.com/SaYiOTz.png) ![Image](https://i.imgur.com/W992sHs.png) ![Image](https://i.imgur.com/bY6prqG.png) ![Image](https://i.imgur.com/QahVADX.png) ![Image](https://i.imgur.com/ntnSfj1.png) ![Image](https://i.imgur.com/0QCf4IA.png)| . |
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Archer
 
-- Bulleted
-- List
+| Original  | Riyo |
+| ------------- | ------------- |
+| ![Image]() | ![Image]() | 
 
-1. Numbered
-2. List
+### Lancer
 
-**Bold** and _Italic_ and `Code` text
+| Original  | Riyo |
+| ------------- | ------------- |
+| ![Image]() | ![Image]() | 
 
-[Link](url) and ![Image](src)
-```
+### Rider
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+| Original  | Riyo |
+| ------------- | ------------- |
+| ![Image]() | ![Image]() | 
 
-### Jekyll Themes
+### Caster
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lib786/Flair-Selection/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+| Original  | Riyo |
+| ------------- | ------------- |
+| ![Image]() | ![Image]() | 
 
-### Support or Contact
+### Assassin
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+| Original  | Riyo |
+| ------------- | ------------- |
+| ![Image]() | ![Image]() | 
+
+### Berserker
+
+| Original  | Riyo |
+| ------------- | ------------- |
+| ![Image]() | ![Image]() | 
+
+### Extra Classes
+
+| Original  | Riyo |
+| ------------- | ------------- |
+| ![Image]() | ![Image]() | 
+
+### Humans/CEs
