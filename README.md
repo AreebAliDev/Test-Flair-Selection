@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to r/GrandOrder's Flair Selection Page
 
-You can use the [editor on GitHub](https://github.com/Lib786/Flair-Selection/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You will find more than 400 flairs available to pick here, organized by class and version. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Once you select a flair, you will be redirected to a mail composition on reddit. There is no need to do anything, just hit send!
 
-### Markdown
+### Saber
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Image](https://cdn.discordapp.com/attachments/360571568650190848/495305444802297857/Artoria.png) [Image](https://cdn.discordapp.com/attachments/360571568650190848/495305440809451541/Altera.png) [Image](https://cdn.discordapp.com/attachments/360571568650190848/495305442218606604/Arthur1.png) [Image](https://cdn.discordapp.com/attachments/360571568650190848/495305443535749130/Arthur2.png)
 
 ```markdown
 Syntax highlighted code block
