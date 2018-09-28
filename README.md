@@ -6,7 +6,7 @@ Once you select a flair, you will be redirected to a mail composition on reddit.
 
 ### Saber
 
-![Image](https://cdn.discordapp.com/attachments/360571568650190848/495305444802297857/Artoria.png) ![Image](https://cdn.discordapp.com/attachments/360571568650190848/495305440809451541/Altera.png) ![Image](https://cdn.discordapp.com/attachments/360571568650190848/495305442218606604/Arthur1.png) ![Image](https://cdn.discordapp.com/attachments/360571568650190848/495305443535749130/Arthur2.png)
+![Image](https://cdn.discordapp.com/attachments/360571568650190848/495305444802297857/Artoria.png) ![Image](https://cdn.discordapp.com/attachments/360571568650190848/495305440809451541/Altera.png) ![Image](https://cdn.discordapp.com/attachments/360571568650190848/495305442218606604/Arthur1.png) ![Image](https://cdn.discordapp.com/attachments/360571568650190848/495305443535749130/Arthur2.png) ![Image](https://cdn.discordapp.com/attachments/360571568650190848/495305445821513728/ArtoriaAlter.png)
 
 ```markdown
 Syntax highlighted code block
