@@ -31,23 +31,13 @@ Once you select a flair, you will be redirected to a mail composition on reddit.
 
 | Original  | Riyo |
 | ------------- | ------------- |
-| ![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()|
-![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()|
-
-| ![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()|
-![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()|
-
-| ![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()|
-![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()|
-
-| ![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()|
-![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()|
-
-| ![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()| 
-![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()| 
-
-| ![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()|  
-![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()| 
+| ![Image](https://i.imgur.com/eSsIJ2G.png) ![Image](https://i.imgur.com/BGrM2gv.png) ![Image](https://i.imgur.com/GkRpDYj.png) ![Image](https://i.imgur.com/7EhzQX4.png) ![Image](https://i.imgur.com/QwfE6j0.png) ![Image](https://i.imgur.com/INib7u7.png)|![Image](https://i.imgur.com/KJKbJDG.png) ![Image](https://i.imgur.com/nSRhK0j.png) ![Image](https://i.imgur.com/np7CJIe.png) ![Image](https://i.imgur.com/GVUn4bI.png) ![Image](https://i.imgur.com/e171maq.png) ![Image](https://i.imgur.com/epCYngd.png)|
+| ![Image](https://i.imgur.com/m0uhdeF.png) ![Image](https://i.imgur.com/22rAJg6.png) ![Image](https://i.imgur.com/bn7NNUQ.png) ![Image](https://i.imgur.com/bNxw9mx.png) ![Image](https://i.imgur.com/XHMIMWb.png) ![Image](https://i.imgur.com/ZbvUX6q.png)|![Image](https://i.imgur.com/jMzcvuF.png) ![Image](https://i.imgur.com/p06Pj8i.png) ![Image](https://i.imgur.com/f3ub0Zb.png) ![Image](https://i.imgur.com/TTouwl7.png) ![Image](https://i.imgur.com/hu393R0.png) ![Image](https://i.imgur.com/fzagmc2.png)|
+| ![Image](https://i.imgur.com/AMJLpoe.png) ![Image](https://i.imgur.com/Ht1xHyr.png) ![Image](https://i.imgur.com/CHW8xV4.png) ![Image](https://i.imgur.com/pgJcj5n.png) ![Image](https://i.imgur.com/fyIUsSF.png) ![Image](https://i.imgur.com/eUooMSD.png)|![Image](https://i.imgur.com/BK7EVKG.png) ![Image](https://i.imgur.com/BKuEpsB.png) ![Image](https://i.imgur.com/m5MPWVR.png) ![Image](https://i.imgur.com/7beST30.png) ![Image](https://i.imgur.com/usRVsVy.png) ![Image](https://i.imgur.com/haoORn7.png)|
+| ![Image](https://i.imgur.com/xfIeoIG.png) ![Image](https://i.imgur.com/Bkq2swi.png) ![Image](https://i.imgur.com/AOeWHiy.png) ![Image](https://i.imgur.com/85gCvDx.png) ![Image](https://i.imgur.com/rDXeiH5.png) ![Image](https://i.imgur.com/1w9ttib.png)|![Image](https://i.imgur.com/qUMnb7K.png) ![Image](https://i.imgur.com/0Rxwkmo.png) ![Image](https://i.imgur.com/gka8Zmq.png) ![Image](https://i.imgur.com/eZfIx26.png) ![Image](https://i.imgur.com/aRyvQ7C.png) ![Image](https://i.imgur.com/uQKr0k5.png)|
+| ![Image](https://i.imgur.com/JFrFAxI.png) ![Image](https://i.imgur.com/AK3ScMA.png) ![Image](https://i.imgur.com/e139oUC.png) ![Image](https://i.imgur.com/zPUB99R.png) ![Image](https://i.imgur.com/xBhQIWN.png) ![Image](https://i.imgur.com/vrKvCqk.png)|![Image](https://i.imgur.com/MDmzBIw.png) ![Image](https://i.imgur.com/d8OvueP.png) ![Image](https://i.imgur.com/qyuMYsD.png) ![Image](https://i.imgur.com/hN7dWHa.png)| 
+| ![Image](https://i.imgur.com/Gb4HTMJ.png) ![Image](https://i.imgur.com/4OPG20c.png) ![Image](https://i.imgur.com/qD7kgse.png) ![Image](https://i.imgur.com/kiaLI4P.png) ![Image](https://i.imgur.com/8rgHbEZ.png)| . |
+ 
 
 ### Rider
 
