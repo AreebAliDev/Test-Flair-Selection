@@ -49,29 +49,18 @@ Once you select a flair, you will be redirected to a mail composition on reddit.
 | ![Image](https://i.imgur.com/n5PkZBC.png) ![Image](https://i.imgur.com/9ceFTtY.png) ![Image](https://i.imgur.com/GGv1GPs.png) ![Image](https://i.imgur.com/VcaCrqA.png) ![Image](https://i.imgur.com/JXLF1Vg.png) ![Image](https://i.imgur.com/9tjGUeU.png)|![Image](https://i.imgur.com/RVDL7ij.png) ![Image](https://i.imgur.com/hMmwJNJ.png) ![Image](https://i.imgur.com/93EwQbq.png) ![Image](https://i.imgur.com/CJMRdqO.png) ![Image](https://i.imgur.com/SgsNSUy.png) | 
 | ![Image](https://i.imgur.com/iEUG53t.png) ![Image](https://i.imgur.com/08CzcV8.png)| | 
 
-
+* Credit to u/Graveweaver for temporary Grampa Ivan Daki as Riyo Ivan
 
 ### Caster
 
 | Original  | Riyo |
 | ------------- | ------------- |
-| ![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()|  
-![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()| 
-
-| ![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()| 
-![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()|
-
-| ![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()| 
-![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()| 
-
-| ![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()| 
-![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()| 
-
-| ![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()|  
-![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()| 
-
-| ![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()| 
-![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()| 
+| ![Image](https://i.imgur.com/D1bzN0n.png) ![Image](https://i.imgur.com/G1LNhPS.png) ![Image](https://i.imgur.com/907S92K.png) ![Image](https://i.imgur.com/qDklGsU.png) ![Image](https://i.imgur.com/o2CWWXa.png) ![Image](https://i.imgur.com/SPnLV38.png)|![Image](https://i.imgur.com/adc5QGu.png) ![Image](https://i.imgur.com/v7yvWmA.png) ![Image](https://i.imgur.com/RNCrq8x.png) ![Image](https://i.imgur.com/Umc74lk.png) ![Image](https://i.imgur.com/lSqGdJs.png) ![Image](https://i.imgur.com/WALA19f.png)| 
+| ![Image](https://i.imgur.com/bMG1R3r.png) ![Image](https://i.imgur.com/5ndLb62.png) ![Image](https://i.imgur.com/M4WBbbk.png) ![Image](https://i.imgur.com/HTOeoZE.png) ![Image](https://i.imgur.com/qbuSwe3.png) ![Image](https://i.imgur.com/9oBFJRa.png)|![Image](https://i.imgur.com/6uRWNX0.png) ![Image](https://i.imgur.com/1nAJcoU.png) ![Image](https://i.imgur.com/Y0qoYsh.png) ![Image](https://i.imgur.com/3I9QkaA.png) ![Image](https://i.imgur.com/HdGVI5o.png) ![Image](https://i.imgur.com/hsLeNPY.png)|
+| ![Image](https://i.imgur.com/Ub6jp3E.png) ![Image](https://i.imgur.com/XHyqb1d.png) ![Image](https://i.imgur.com/35ATvMX.png) ![Image](https://i.imgur.com/3sLhrVh.png) ![Image](https://i.imgur.com/m9znnvy.png) ![Image](https://i.imgur.com/EOpmHDP.png)|![Image](https://i.imgur.com/Wi8q00T.png) ![Image](https://i.imgur.com/It7byHt.png) ![Image](https://i.imgur.com/NojhDpC.png) ![Image](https://i.imgur.com/yW1pwIa.png) ![Image](https://i.imgur.com/v1kECjW.png) ![Image](https://i.imgur.com/C0qlAGp.png)| 
+| ![Image](https://i.imgur.com/LEoCien.png) ![Image](https://i.imgur.com/zuO9P1r.png) ![Image](https://i.imgur.com/Oiw8Jzg.png) ![Image](https://i.imgur.com/AiZtdDz.png) ![Image](https://i.imgur.com/H5P5tm8.png) ![Image](https://i.imgur.com/hGXd1xO.png)|![Image](https://i.imgur.com/DPn0NIl.png) ![Image](https://i.imgur.com/zBVjd7V.png) ![Image](https://i.imgur.com/i6uft84.png) ![Image](https://i.imgur.com/5VsRy9F.png) ![Image](https://i.imgur.com/Tsg9bKJ.png) ![Image](https://i.imgur.com/rMDdVPU.png)| 
+| ![Image](https://i.imgur.com/o8g9IsU.png) ![Image](https://i.imgur.com/xYR8cY2.png) ![Image](https://i.imgur.com/xd2iaqZ.png) ![Image](https://i.imgur.com/TnP9qAF.png) ![Image](https://i.imgur.com/8RJJnjC.png) ![Image](https://i.imgur.com/K5PBzGq.png)|![Image](https://i.imgur.com/XAknyv4.png) ![Image](https://i.imgur.com/nRJpcAx.png) ![Image](https://i.imgur.com/QwLhCeo.png) ![Image](https://i.imgur.com/JoELaMm.png) ![Image](https://i.imgur.com/k8pr78t.png) ![Image](https://i.imgur.com/tlhF1al.png)| 
+| ![Image](https://i.imgur.com/gTmgLoU.png) ![Image](https://i.imgur.com/iWK85gx.png) ![Image](https://i.imgur.com/VzzEIHY.png) ![Image](https://i.imgur.com/0GWW2aX.png) ![Image](https://i.imgur.com/o8Xz3g4.png) ![Image](https://i.imgur.com/E99RISQ.png)|![Image](https://i.imgur.com/Oh69pXX.png)| 
 
 ### Assassin
 
