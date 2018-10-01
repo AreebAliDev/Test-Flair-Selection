@@ -99,5 +99,17 @@ Original | Riyo
 | ![Image](https://i.imgur.com/TYm6O9H.png) ![Image](https://i.imgur.com/646SU1p.png) ![Image](https://i.imgur.com/9ei2dBp.png) ![Image](https://i.imgur.com/pWmZi13.png) ![Image](https://i.imgur.com/J2Faxmm.png) ![Image](https://i.imgur.com/YxSGSva.png)|![Image](https://i.imgur.com/M8KPNNZ.png) ![Image](https://i.imgur.com/eSML6MB.png) ![Image](https://i.imgur.com/hmJKFOR.png) ![Image](https://i.imgur.com/YjFx9Mw.png) ![Image](https://i.imgur.com/XYltMn2.png) | 
 | ![Image](https://i.imgur.com/IT9LYQb.png) ![Image](https://i.imgur.com/uvvKocv.png) ![Image](https://i.imgur.com/G7puLo9.png) ![Image](https://i.imgur.com/k4uyZ5J.png) ![Image](https://i.imgur.com/71FGLCu.png) ![Image](https://i.imgur.com/RivsaJj.png)|![Image](https://i.imgur.com/WA2gYDd.png) ![Image](https://i.imgur.com/noVKzAJ.png) ![Image](https://i.imgur.com/v2pr9IW.png) |
 | ![Image](https://i.imgur.com/muRvA5e.png)| | 
-
+ 
 ### Miscallaneous
+
+| Category  | Flair |
+| ------------- | ------------- |
+| Yorokobe | ![Image](https://i.imgur.com/TTEU2ZQ.png) ![Image](https://i.imgur.com/7kB9NLk.png)  ![Image](https://i.imgur.com/zYGcSND.png) ![Image](https://i.imgur.com/ULu9Hhl.png)  ![Image](https://i.imgur.com/eEba3pi.png)  |
+| Chaldea Personell | ![Image](https://i.imgur.com/U33RzRA.png)  ![Image](https://i.imgur.com/U33RzRA.png)  ![Image](https://i.imgur.com/U33RzRA.png) ![Image](https://i.imgur.com/3i85DXs.png)  ![Image](https://i.imgur.com/AHFKT9M.png)  ![Image](https://i.imgur.com/LwBSqEW.png)  ![Image](https://i.imgur.com/ePFx9Zk.png)  ![Image](https://i.imgur.com/gpuMM0j.png)  ![Image](https://i.imgur.com/1zQzKLB.png)  ![Image](https://i.imgur.com/iSOgQ0A.png)    | 
+| Singularity/Lostbelt | ![Image](https://i.imgur.com/iSOgQ0A.png)  ![Image](https://i.imgur.com/zYgoCso.png)  ![Image](https://i.imgur.com/KjHIj7W.png)  | 
+| 3 Routes ½ | ![Image](https://i.imgur.com/IDw2FiV.png)  ![Image](https://i.imgur.com/l54Hh25.png)  ![Image](https://i.imgur.com/OFC3In2.png)  ![Image](https://i.imgur.com/tWq5bcM.png)  ![Image](https://i.imgur.com/pz0KP46.png)  ![Image](https://i.imgur.com/H6zrJgA.png)  ![Image](https://i.imgur.com/qxN1NHC.png)  ![Image](https://i.imgur.com/nR6j5sP.png)  ![Image](https://i.imgur.com/XXikpeE.png) ![Image](https://i.imgur.com/cyEYeeN.png) | 
+| Fate/Zero | ![Image](https://i.imgur.com/SeFYMhy.png)  ![Image](https://i.imgur.com/3mQ3zWJ.png)  ![Image](https://i.imgur.com/sbOtFJZ.png)  ![Image](https://i.imgur.com/H0ikQvy.png)  ![Image](https://i.imgur.com/OvZDhVG.png)  ![Image](https://i.imgur.com/gNRgkCT.png)  ![Image](https://i.imgur.com/huyaGgT.png)  ![Image](https://i.imgur.com/7GRS3nc.png) |
+| KnK | ![Image](https://i.imgur.com/iC4iDkk.png)  ![Image](https://i.imgur.com/PgKEOak.png) ![Image](https://i.imgur.com/cVlvxfN.png) |
+| Extra | ![Image](https://i.imgur.com/Bd7LfXS.png)  ![Image](https://i.imgur.com/hGVWNXA.png)  ![Image](https://i.imgur.com/fp23tzw.png)  ![Image](https://i.imgur.com/9ntkXoo.png)  ![Image](https://i.imgur.com/hI6rppk.png)  ![Image](https://i.imgur.com/enim1u0.png)  ![Image](https://i.imgur.com/enim1u0.png) |
+| Apocrypha | ![Image](https://i.imgur.com/W8OP6bP.png)  ![Image](https://i.imgur.com/iKJPIdU.png)  ![Image](https://i.imgur.com/2LnMIOp.png)  ![Image](https://i.imgur.com/zyTpexB.png) ![Image](https://i.imgur.com/p1yrNXy.png) |
+| Prillya | ![Image](https://i.imgur.com/5xeCcTV.png) ![Image](https://i.imgur.com/9dIus5N.png) ![Image](https://i.imgur.com/3iCheTm.png) ![Image](https://i.imgur.com/wzyXGnm.png) |
