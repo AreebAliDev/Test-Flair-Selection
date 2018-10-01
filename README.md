@@ -4,6 +4,13 @@ You will find more than 500 flairs available to pick here, organized by class an
 
 Once you select a flair, you will be redirected to a mail composition on reddit. There is no need to do anything, just hit send!
 
+### Best Kouhais
+
+Original | Riyo
+| ------------- | ------------- |
+| ![Image](https://i.imgur.com/A22kqH6.png) ![Image](https://i.imgur.com/LbsxHL3.png) ![Image](https://i.imgur.com/PUviAeR.png) | ![Image](https://i.imgur.com/VCriVvM.png) |
+| ![Image](https://i.imgur.com/GqGxIFx.png) ![Image](https://i.imgur.com/2vxlSL8.png)| ![Image](https://i.imgur.com/NdEBe3x.png) |
+
 ### Saber
 
 | Original  | Riyo |
@@ -86,22 +93,11 @@ Once you select a flair, you will be redirected to a mail composition on reddit.
 
 | Original  | Riyo |
 | ------------- | ------------- |
-| ![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()| 
-![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()| 
-
-| ![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()| 
-![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()| 
-
-| ![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()| 
-![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()|
-
-| ![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()| 
-![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()| 
-
-| ![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()| 
-![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()|
-
-| ![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()| 
-![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()| 
+| ![Image](https://i.imgur.com/5GSHFcW.png) ![Image](https://i.imgur.com/bYW3YL9.png) ![Image](https://i.imgur.com/1e7tYQA.png) ![Image](https://i.imgur.com/zfdBd7d.png) ![Image]() ![Image]()|![Image](https://i.imgur.com/qHeCcIQ.png) ![Image](https://i.imgur.com/SbTCOM7.png) ![Image](https://i.imgur.com/B0nzbhE.png) ![Image](https://i.imgur.com/mf29LVg.png) ![Image]() ![Image]()| 
+| ![Image](https://i.imgur.com/rOs9Vne.png) ![Image](https://i.imgur.com/9qY5loK.png) ![Image](https://i.imgur.com/vv3HWRG.png) ![Image](https://i.imgur.com/Lbj3aMX.png) ![Image](https://i.imgur.com/02ACBav.png) ![Image](https://i.imgur.com/jmc13Ob.png)|![Image](https://i.imgur.com/vXpnmne.png) ![Image](https://i.imgur.com/PUv5PuO.png) ![Image](https://i.imgur.com/fN8aZts.png) ![Image](https://i.imgur.com/zA6RWcs.png) ![Image](https://i.imgur.com/bDTVN5V.png) ![Image](https://i.imgur.com/sQcDhyX.png)| 
+| ![Image](https://i.imgur.com/RLJmeVB.png) ![Image](https://i.imgur.com/3G9zMOD.png) ![Image](https://i.imgur.com/4s7XYCn.png) ![Image](https://i.imgur.com/3t6mcVc.png) ![Image](https://i.imgur.com/BsPPruY.png)| |
+| ![Image](https://i.imgur.com/TYm6O9H.png) ![Image](https://i.imgur.com/646SU1p.png) ![Image](https://i.imgur.com/9ei2dBp.png) ![Image](https://i.imgur.com/pWmZi13.png) ![Image](https://i.imgur.com/J2Faxmm.png) ![Image](https://i.imgur.com/YxSGSva.png)|![Image](https://i.imgur.com/M8KPNNZ.png) ![Image](https://i.imgur.com/eSML6MB.png) ![Image](https://i.imgur.com/hmJKFOR.png) ![Image](https://i.imgur.com/YjFx9Mw.png) ![Image](https://i.imgur.com/XYltMn2.png) ![Image]()| 
+| ![Image](https://i.imgur.com/IT9LYQb.png) ![Image](https://i.imgur.com/uvvKocv.png) ![Image](https://i.imgur.com/G7puLo9.png) ![Image](https://i.imgur.com/k4uyZ5J.png) ![Image](https://i.imgur.com/71FGLCu.png) ![Image](https://i.imgur.com/RivsaJj.png)|![Image](https://i.imgur.com/WA2gYDd.png) ![Image](https://i.imgur.com/noVKzAJ.png) ![Image](https://i.imgur.com/v2pr9IW.png) ![Image]() ![Image]() ![Image]()|
+| ![Image](https://i.imgur.com/muRvA5e.png)| | 
 
 ### Miscallaneous
