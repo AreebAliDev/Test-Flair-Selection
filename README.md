@@ -66,23 +66,12 @@ Once you select a flair, you will be redirected to a mail composition on reddit.
 
 | Original  | Riyo |
 | ------------- | ------------- |
-| ![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()| 
-![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()| 
-
-| ![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()| 
-![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()| 
-
-| ![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()| 
-![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()|
-
-| ![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()| 
-![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()| 
-
-| ![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()| 
-![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()|
-
-| ![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()| 
-![Image]() ![Image]() ![Image]() ![Image]() ![Image]() ![Image]()| 
+| ![Image](https://i.imgur.com/uSV47e0.png) ![Image](https://i.imgur.com/2Fp9J18.png) ![Image](https://i.imgur.com/sstPbMy.png) ![Image](https://i.imgur.com/Om8Ugbv.png) ![Image](https://i.imgur.com/1Xc8lHu.png) ![Image](https://i.imgur.com/k2yLNCJ.png)|![Image](https://i.imgur.com/YKG6POE.png) ![Image](https://i.imgur.com/DSbkNgM.png) ![Image](https://i.imgur.com/6JboD4R.png) ![Image](https://i.imgur.com/NnDDrLf.png) ![Image](https://i.imgur.com/5ZW8Wk8.png) ![Image](https://i.imgur.com/d3b8OoB.png)| 
+| ![Image](https://i.imgur.com/izadjn0.png) ![Image](https://i.imgur.com/PrXPGmU.png) ![Image](https://i.imgur.com/o6QI68m.png) ![Image](https://i.imgur.com/gGdRtDw.png) ![Image](https://i.imgur.com/sfYzf9Z.png) ![Image](https://i.imgur.com/cIf7reI.png)|![Image](https://i.imgur.com/GVYI7fP.png) ![Image](https://i.imgur.com/u0lVI9Y.png) ![Image](https://i.imgur.com/tUJNlH7.png) ![Image](https://i.imgur.com/fkWhcUS.png) ![Image](https://i.imgur.com/tBc2ixD.png) ![Image](https://i.imgur.com/Ccdlgow.png)| 
+| ![Image](https://i.imgur.com/BL02q2C.png) ![Image](https://i.imgur.com/NkBTcv7.png) ![Image](https://i.imgur.com/XhnY43F.png) ![Image](https://i.imgur.com/3rTf2s9.png) ![Image](https://i.imgur.com/fqj4tLY.png) ![Image](https://i.imgur.com/l2c4Lmz.png)|![Image](https://i.imgur.com/slHWtEu.png) ![Image](https://i.imgur.com/NnUn304.png) ![Image](https://i.imgur.com/rDs1jGI.png) ![Image](https://i.imgur.com/cCV2U1F.png) ![Image](https://i.imgur.com/acEHXro.png) ![Image](https://i.imgur.com/jDAYmJy.png)|
+| ![Image](https://i.imgur.com/iYIHcQe.png) ![Image](https://i.imgur.com/iYIHcQe.png) ![Image](https://i.imgur.com/FHrZs6e.png) ![Image](https://i.imgur.com/Pf3au5S.png) ![Image](https://i.imgur.com/ee3tIG2.png) ![Image](https://i.imgur.com/CaJoscS.png)|![Image](https://i.imgur.com/nRPvuM6.png) ![Image](https://i.imgur.com/Wzfy0sV.png) ![Image](https://i.imgur.com/TP3BAG6.png) ![Image](https://i.imgur.com/nhOG5AE.png) ![Image](https://i.imgur.com/8Sf4yc7.png) ![Image](https://i.imgur.com/kI7bhHF.png)| 
+| ![Image](https://i.imgur.com/xM7ARn6.png) ![Image](https://i.imgur.com/k7epriR.png) ![Image](https://i.imgur.com/9MP4d9f.png) ![Image](https://i.imgur.com/lK70J1E.png) ![Image](https://i.imgur.com/LC6wjhK.png) ![Image](https://i.imgur.com/FEm5AHi.png)| 
+![Image](https://i.imgur.com/DVZLSjc.png) ![Image](https://i.imgur.com/0FxJMlj.png)| | ![Image](https://i.imgur.com/6lb5OTR.png) ![Image](https://i.imgur.com/bCnVaD6.png)| | 
 
 ### Berserker
 
