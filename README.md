@@ -9,7 +9,7 @@ Once you select a flair, you will be redirected to a mail composition on reddit.
 Original | Riyo
 | ------------- | ------------- |
 | ![Image](https://i.imgur.com/A22kqH6.png) ![Image](https://i.imgur.com/LbsxHL3.png) ![Image](https://i.imgur.com/PUviAeR.png) | ![Image](https://i.imgur.com/VCriVvM.png) |
-| ![Image](https://i.imgur.com/GqGxIFx.png) ![Image](https://i.imgur.com/2vxlSL8.png)| ![Image](https://i.imgur.com/NdEBe3x.png) |
+| ![Image](https://i.imgur.com/GqGxIFx.png) ![Image](https://i.imgur.com/2vxlSL8.png) | ![Image](https://i.imgur.com/NdEBe3x.png) |
 
 ### Saber
 
