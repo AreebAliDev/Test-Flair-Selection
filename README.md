@@ -99,7 +99,7 @@ Once you select a flair, you will be redirected to a mail composition on reddit.
 | Foreigner | ![Image](https://i.imgur.com/IT9LYQb.png) ![Image](https://i.imgur.com/uvvKocv.png) ![Image](https://i.imgur.com/G7puLo9.png) ![Image](https://i.imgur.com/k4uyZ5J.png) ![Image](https://i.imgur.com/71FGLCu.png) ![Image](https://i.imgur.com/RivsaJj.png) ![Image](https://i.imgur.com/muRvA5e.png)|![Image](https://i.imgur.com/WA2gYDd.png) ![Image](https://i.imgur.com/noVKzAJ.png) ![Image](https://i.imgur.com/v2pr9IW.png) |
 
  
-### Miscallaneous
+### Miscellaneous
 
 | Category  | Flair |
 | ------------- | ------------- |
