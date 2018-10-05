@@ -4,6 +4,8 @@ You will find more than 500 flairs available to pick here, organized by class an
 
 Once you select a flair, you will be redirected to a mail composition on reddit. All you need to do is change "insert flair text here" to what you would like your flair text to be, and hit send!
 
+![Image](https://cdn.discordapp.com/attachments/330106886080823299/497566404321607720/Holmes.png)
+
 ### Best Kouhais
 
 | Original | Riyo |
